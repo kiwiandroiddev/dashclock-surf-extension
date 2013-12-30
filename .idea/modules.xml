@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DashClockSurfExtension.iml" filepath="$PROJECT_DIR$/DashClockSurfExtension.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DashClock Surf Extension/main.iml" filepath="$PROJECT_DIR$/DashClock Surf Extension/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
     </modules>
   </component>
 </project>
